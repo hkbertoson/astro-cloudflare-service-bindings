@@ -1,0 +1,14 @@
+{
+  "name": "astro-cloudflare-service-bindings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm --parallel dev",
+    "types": "pnpm --recursive cf-typegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1"
+}
